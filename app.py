@@ -245,6 +245,6 @@ with tabs[3]:
                          ▼
         [ Immutable Blockchain Ledger ] ◄──────► [ Production Serving Audit Gateway ]
     ```
-    ### Why this impresses Datopic:
-    Enterprise tech firms serving healthcare, banking, and government clients must comply with strict AI governance regulations. Combining cryptographic hashing with blockchain ensures ML models in production have not been poisoned, tampered with, or swapped silently.
+    ### Governance & Compliance in Regulated AI:
+    Enterprise AI deployments in healthcare and financial systems must comply with strict model governance and provenance standards. Combining SHA-256 binary hashing with blockchain ledgers guarantees that served models are authentic, audited, and untampered.
     """)

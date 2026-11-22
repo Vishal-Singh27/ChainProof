@@ -96,8 +96,8 @@ Open your browser at `http://localhost:8501`.
 
 ---
 
-## 🎯 Alignment with Datopic Technologies
-Datopic delivers high-assurance product engineering across healthcare (HL7 FHIR compliance) and financial systems where verifiable AI governance and audit trails are mandatory. **ChainProof uniquely fuses machine learning model deployment with blockchain cryptography.**
+## 🎯 Research & Engineering Impact
+Developed as an applied system at the intersection of AI safety and distributed ledger technology, **ChainProof uniquely fuses machine learning model deployment with cryptographic provenance and immutable governance.**
 
 ---
 
